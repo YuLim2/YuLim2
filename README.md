@@ -1,16 +1,13 @@
-### Hi there 👋
 
-<!--
-**YuLim2/YuLim2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![header](https://capsule-render.vercel.app/api?type=wave&color=00d8ff&height=300&section=header&text=YuLim2's%20lifeLog&fontSize=90)	
+## 🌟 about me! 🌟
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align = center>
+
+  https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@yulim2
+  https://img.shields.io/badge/instagram-833ab4?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/tjtan_lim/
+  https://img.shields.io/badge/gmail-EA4335?style=flat-square&logo=gmail&logoColor=white&link=jyulim0120@gmail.com
+  
+ </div>
+  
