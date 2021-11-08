@@ -1,6 +1,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=00d8ff&height=300&section=header&text=YuLim2's%20TechLog&fontSize=90)	
-## 🌟 about me! 🌟
+<h2 align = center> 🌟 about me! 🌟 </h2>
 
 
 <div align = center>
