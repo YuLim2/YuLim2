@@ -6,7 +6,7 @@
 #### Now
 
 - 🌱 I'm learning about the basic of JAVA!
-- 💻 I'm tring to study Deep Learning!
+- 💻 I'm tring to study Machine Learning!
 
 
 #### BIO
