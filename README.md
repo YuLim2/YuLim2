@@ -5,7 +5,6 @@
 
 #### Now
 
-- 🌱 I'm learning about the basic of JAVA!
 - 💻 I'm tring to study Machine Learning!
 - 📚 I'm tring to read books everyday!
 - 🔤 I'm studies English to go to Canada 🇨🇦!
