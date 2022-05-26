@@ -14,4 +14,6 @@
 
 
 [![본인ID's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=YuLim2&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/YuLim2)
-  
+
+[[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=kingyulim7699)(https://solved.ac/kingyulim7699)
