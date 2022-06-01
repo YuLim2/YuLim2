@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm interested in solving countless problems with small things.
+I'm interested in solving countless problems with small things. <br>
 Currently, I am studying NLP for developing a chatbot. I will develop new and valuable products by utilizing the hidden value of the data.
 
 
