@@ -1,7 +1,8 @@
 ### Hi there 👋
 
 I'm interested in solving countless problems with small things. <br>
-Currently, I am studying NLP for developing a chatbot.
+Currently, I am studying NLP for developing a chatbot. <br>
+And I am taking part in Kaggle competition!
 #### I will develop new and valuable products by utilizing the hidden value of the data.
 
 
