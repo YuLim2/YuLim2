@@ -17,5 +17,3 @@ And I am taking part in Kaggle competition!
 - 📪 Reach me:<a href="jyulim0120@gmail.com"> jyulim0120@gmail.com</a> 
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/yulim2/yulim2/output/github-contribution-grid-snake.svg)
-Footer
-
