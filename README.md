@@ -14,6 +14,4 @@ And I am taking part in Kaggle competition!
 #### BIO
 
 - <a href="https://velog.io/@yulim2"><img src="https://img.shields.io/badge/Tech%20Blog-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://velog.io/@yulim2"/></a> TIL: I'm writing down what today I learned.
-- 📪 Reach me:<a href="jyulim0120@gmail.com"> jyulim0120@gmail.com</a> 
-
-![github contribution grid snake animation](https://raw.githubusercontent.com/yulim2/yulim2/output/github-contribution-grid-snake.svg)
+- 📪 Reach me:<a href="jyulim0120@gmail.com"> jyulim0120@gmail.com</a>
